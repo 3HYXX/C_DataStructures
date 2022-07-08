@@ -154,7 +154,6 @@ int main()
     Insert(3,L1,L1);
     Insert(2,L1,L1);
     Insert(1,L1,L1);
-    Delete(3,L1);
     PrintList(L1);
     
     return 0;
